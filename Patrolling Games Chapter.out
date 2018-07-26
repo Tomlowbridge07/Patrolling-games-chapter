@@ -1,0 +1,23 @@
+\BOOKMARK [1][-]{section.1}{Patrolling games}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Issue and correction of the diametric bound}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{New Tools}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Star graph solution}{section.1}% 4
+\BOOKMARK [2][-]{subsection.1.4}{Elongating the star graph}{section.1}% 5
+\BOOKMARK [2][-]{subsection.1.5}{Generalising the star graph}{section.1}% 6
+\BOOKMARK [2][-]{subsection.1.6}{Joining star graphs by centralised connections}{section.1}% 7
+\BOOKMARK [1][-]{appendix.A}{Examples}{}% 8
+\BOOKMARK [2][-]{subsection.A.1}{Example of decomposition}{appendix.A}% 9
+\BOOKMARK [2][-]{subsection.A.2}{Example of simplification}{appendix.A}% 10
+\BOOKMARK [1][-]{appendix.B}{Patrolling games}{}% 11
+\BOOKMARK [2][-]{subsection.B.1}{Proof of diametric waiting time}{appendix.B}% 12
+\BOOKMARK [2][-]{subsection.B.2}{Proof of conditions on T for diametric attack}{appendix.B}% 13
+\BOOKMARK [2][-]{subsection.B.3}{Proof of time-limited diametric attack}{appendix.B}% 14
+\BOOKMARK [2][-]{subsection.B.4}{Proof of time-delayed attack}{appendix.B}% 15
+\BOOKMARK [2][-]{subsection.B.5}{Proof of type-delayed attack}{appendix.B}% 16
+\BOOKMARK [2][-]{subsection.B.6}{Generalised ARHP}{appendix.B}% 17
+\BOOKMARK [1][-]{appendix.C}{Improving random oscillations}{}% 18
+\BOOKMARK [2][-]{subsection.C.1}{Reason For Probability of Interception formula}{appendix.C}% 19
+\BOOKMARK [2][-]{subsection.C.2}{Naive improvement analysis}{appendix.C}% 20
+\BOOKMARK [2][-]{subsection.C.3}{Combinatorial improvement analysis}{appendix.C}% 21
+\BOOKMARK [2][-]{subsection.C.4}{Combinatorial improvement extension}{appendix.C}% 22
+\BOOKMARK [1][-]{appendix.D}{Optimal Solution for a Random Attacker}{}% 23

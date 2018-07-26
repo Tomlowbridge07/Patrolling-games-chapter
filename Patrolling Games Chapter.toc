@@ -1,0 +1,23 @@
+\contentsline {section}{\numberline {1}Patrolling games}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}Issue and correction of the diametric bound}{1}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}New Tools}{3}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Star graph solution}{4}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Elongating the star graph}{4}{subsection.1.4}
+\contentsline {subsection}{\numberline {1.5}Generalising the star graph}{12}{subsection.1.5}
+\contentsline {subsection}{\numberline {1.6}Joining star graphs by centralised connections}{14}{subsection.1.6}
+\contentsline {section}{\numberline {A}Examples}{16}{appendix.A}
+\contentsline {subsection}{\numberline {A.1}Example of decomposition}{16}{subsection.A.1}
+\contentsline {subsection}{\numberline {A.2}Example of simplification}{18}{subsection.A.2}
+\contentsline {section}{\numberline {B}Patrolling games}{18}{appendix.B}
+\contentsline {subsection}{\numberline {B.1}Proof of diametric waiting time}{18}{subsection.B.1}
+\contentsline {subsection}{\numberline {B.2}Proof of conditions on T for diametric attack}{19}{subsection.B.2}
+\contentsline {subsection}{\numberline {B.3}Proof of time-limited diametric attack}{20}{subsection.B.3}
+\contentsline {subsection}{\numberline {B.4}Proof of time-delayed attack}{20}{subsection.B.4}
+\contentsline {subsection}{\numberline {B.5}Proof of type-delayed attack}{29}{subsection.B.5}
+\contentsline {subsection}{\numberline {B.6}Generalised ARHP}{33}{subsection.B.6}
+\contentsline {section}{\numberline {C}Improving random oscillations}{34}{appendix.C}
+\contentsline {subsection}{\numberline {C.1}Reason For Probability of Interception formula}{34}{subsection.C.1}
+\contentsline {subsection}{\numberline {C.2}Naive improvement analysis}{34}{subsection.C.2}
+\contentsline {subsection}{\numberline {C.3}Combinatorial improvement analysis}{35}{subsection.C.3}
+\contentsline {subsection}{\numberline {C.4}Combinatorial improvement extension}{36}{subsection.C.4}
+\contentsline {section}{\numberline {D}Optimal Solution for a Random Attacker}{36}{appendix.D}
